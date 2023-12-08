@@ -1,7 +1,7 @@
 {
     "name": "fishpig/magento2-remove-newsletter",
-    "description": "Remove Magento\Newsletter.",
-    "version": "1.0.0",
+    "description": "Remove Magento_Newsletter.",
+    "version": "1.0.1",
     "autoload": {
         "psr-4": {
             "Magento\\Newsletter\\": "Mock/Magento/Newsletter/"
