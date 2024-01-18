@@ -4,7 +4,7 @@
  */
 namespace Magento\Newsletter\Model\ResourceModel\Queue;
 
-class Collection extends \Varien\Data\Collection
+class Collection extends \Magento\Framework\Data\Collection
 {
     /**
      *
